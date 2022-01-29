@@ -14,6 +14,13 @@ body {
   background-color: #c7cdd3;
 }
 
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
 .card {
   width: 100px;
   height: 100px;
