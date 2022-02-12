@@ -2,7 +2,7 @@
 
 ## Descrição 📋
 
-Atualizaçao de um projeto feito inicalmente em HTML,CSS e JS e agora foi migrado para REACT.JS para praticar e desenvolver conhecimentos adiquirido no curso de Full Stack.
+Atualizaçao de um projeto feito inicialmente em HTML,CSS e JS e agora foi migrado para REACT.JS para praticar e desenvolver minhas habilidades.
 
 ## Interface do Jogo 📑
 
